@@ -1,0 +1,8 @@
+products(search: "PC106", page :1, limit :5, site:"multilaser"){
+        data{
+        slug,
+        sku,
+        name,
+        description
+    }
+  }
